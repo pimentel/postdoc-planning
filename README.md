@@ -14,5 +14,5 @@ information. I'm also happy to take suggestions via Twitter:
 
 ## Questionnaires
 
-- By [Ben Langmead](https://github.com/jtleek/langmead-lab/blob/master/postdoc_questionnaire.md)
-- By [Jeff Leek](https://github.com/jtleek/langmead-lab/blob/master/postdoc_questionnaire.m://github.com/jtleek/careerplanning)
+- By [Ben Langmead](https://github.com/BenLangmead/langmead-lab/blob/master/postdoc_questionnaire.md)
+- By [Jeff Leek](https://github.com/jtleek/careerplanning)
